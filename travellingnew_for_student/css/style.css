@@ -131,9 +131,9 @@ background-image: linear-gradient(to left, #91CDFF 0%, #005CFB 100%);
 
 .color-strip {
 	/* задать высоту цветной полоски */
-	height: 15px;
+	height: 10px;
 	/* вырезать и указать фон для цветной подложки*/
-	background: url(.../img/imgpod.png) 0 0 repeat-x;
+	background: url(../img/imgpod.png) 0 0 repeat-x;
 	border-top: 3px solid #fff;
 	border-bottom: 2px solid #fff;
 	width: 100%;
